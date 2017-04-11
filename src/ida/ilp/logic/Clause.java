@@ -28,7 +28,7 @@ import java.util.*;
 /**
  * Class for storing sets of positive first-order-logic literals. There is only one copy of each literal in in any Clause.
  * 
- *
+ * ok
  */
 public class Clause {
     
